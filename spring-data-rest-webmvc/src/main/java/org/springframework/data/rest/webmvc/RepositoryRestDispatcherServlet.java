@@ -6,6 +6,7 @@ import org.springframework.web.context.support.AnnotationConfigWebApplicationCon
 import org.springframework.web.servlet.DispatcherServlet;
 
 /**
+ * MARK 注册路径
  * Special {@link DispatcherServlet} subclass that certain exporter components can recognize.
  * 
  * @author Jon Brisbin
